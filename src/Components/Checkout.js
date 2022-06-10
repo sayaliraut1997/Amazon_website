@@ -10,6 +10,7 @@ function Checkout() {
 
   return (
     <div className='checkout'>
+    
         <div className='checkout_left'>
           <img className='checkout_ad'
           src="https://images-eu.ssl-images-amazon.com/images/G/31/img22/Fashion/SS22/AFpage/Unrec/Headers/clearance-pc.jpg"

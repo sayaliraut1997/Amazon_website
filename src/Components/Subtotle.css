@@ -20,7 +20,7 @@
     margin-right: 5px;
 }
 
-.subtotle> button {
+.subtotle_gift > button {
     background: #f0c14b;
     border-radius: 2px;
     width: 100%;
@@ -31,3 +31,25 @@
     color: black;
     
 }
+
+#button1 , #button2{
+    background: #f0c14b;
+  
+}
+
+#button3{
+    background: #f0c14b;
+    margin-left: 520px;
+}
+
+.modal {
+    justify-content: center;
+}
+
+.para{
+   font-family: Georgia, 'Times New Roman', Times, serif; 
+   margin-top: 100px;
+}
+
+
+
